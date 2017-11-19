@@ -1,1 +1,209 @@
-year,month,day,doy,site,trt,veg,start.temp,stop.temp,Anthophila,Hymenoptera,Diptera,Collembola,Orthoptera,Hemiptera,Thysanoptera,Coleoptera,Lepidoptera,Araneae2014,6,14,165,WPP,Agroforestry,Agroforestry,68,79,8,7,87,NA,11,9,0,0,2,02014,6,14,165,WPP,Agroforestry,Agroforestry,68,79,9,6,35,NA,11,14,0,3,0,02014,6,14,165,WPP,Agroforestry,Agroforestry,68,79,10,2,43,NA,10,15,0,1,0,02014,6,14,165,WPP,Agroforestry,Agroforestry,68,79,10,4,41,NA,4,17,0,1,0,12014,6,14,165,WPP,Row Crop,Corn,68,79,1,3,26,NA,4,1,0,1,0,02014,6,14,165,WPP,Row Crop,Corn,68,79,1,18,34,NA,12,0,0,1,0,02014,6,14,165,WPP,Row Crop,Corn,68,79,0,4,16,NA,5,0,0,0,0,02014,6,14,165,WPP,Row Crop,Corn,68,79,4,4,26,NA,2,1,0,1,11,02014,7,18,199,WPP,Agroforestry,Agroforestry,71,78,19,34,75,NA,1,2,18,2,1,12014,7,18,199,WPP,Agroforestry,Agroforestry,71,78,19,25,55,NA,2,6,19,1,2,22014,7,18,199,WPP,Agroforestry,Agroforestry,71,78,31,19,58,NA,1,4,18,0,0,12014,7,18,199,WPP,Agroforestry,Agroforestry,71,78,35,42,115,NA,0,8,53,3,0,22014,7,18,199,WPP,Row Crop,Corn,71,78,0,15,4,NA,0,6,4,2,0,02014,7,18,199,WPP,Row Crop,Corn,71,78,0,34,15,NA,0,0,4,2,0,02014,7,18,199,WPP,Row Crop,Corn,71,78,0,33,15,NA,0,3,5,2,0,02014,7,18,199,WPP,Row Crop,Corn,71,78,0,18,8,NA,0,1,2,1,0,02014,8,14,226,WPP,Agroforestry,Agroforestry,73,80,68,9,39,NA,1,16,33,2,3,02014,8,14,226,WPP,Agroforestry,Agroforestry,73,80,71,20,37,NA,2,19,52,1,1,02014,8,14,226,WPP,Agroforestry,Agroforestry,73,80,97,12,46,NA,1,16,44,0,2,12014,8,14,226,WPP,Agroforestry,Agroforestry,73,80,116,15,41,NA,1,15,32,1,9,02014,8,14,226,WPP,Row Crop,Corn,73,80,0,10,14,NA,0,10,7,0,0,02014,8,14,226,WPP,Row Crop,Corn,73,80,1,38,27,NA,0,19,3,0,0,02014,8,14,226,WPP,Row Crop,Corn,73,80,0,12,12,NA,0,7,3,1,0,02014,8,14,226,WPP,Row Crop,Corn,73,80,0,28,26,NA,1,13,7,1,0,02014,9,24,267,WPP,Agroforestry,Agroforestry,58,76,29,57,384,NA,0,9,64,6,12,22014,9,24,267,WPP,Agroforestry,Agroforestry,58,76,33,47,423,NA,1,14,72,4,10,12014,9,24,267,WPP,Agroforestry,Agroforestry,58,76,33,96,403,NA,1,22,76,1,15,22014,9,24,267,WPP,Agroforestry,Agroforestry,58,76,25,84,382,NA,0,15,158,3,12,22014,9,24,267,WPP,Row Crop,Corn,58,76,0,62,46,NA,0,2,10,2,0,02014,9,24,267,WPP,Row Crop,Corn,58,76,1,79,45,NA,0,5,22,3,0,02014,9,24,267,WPP,Row Crop,Corn,58,76,1,106,47,NA,0,10,27,2,1,02014,9,24,267,WPP,Row Crop,Corn,58,76,1,69,73,NA,0,4,21,0,0,02015,5,29,149,Lockie,Agroforestry,Agroforestry,76,84,1,15,95,1,0,2,30,1,0,02015,5,29,149,Lockie,Corn,Corn,76,84,5,5,44,0,0,4,25,7,1,22015,5,29,149,Lockie,Hay,Hay,76,84,0,20,105,24,0,7,22,1,2,02015,7,15,196,Lockie,Agroforestry,Agroforestry,67,78,4,2,86,77,2,3,4,2,4,22015,7,15,196,Lockie,Corn,Corn,67,78,0,0,25,0,0,1,2,2,0,02015,7,15,196,Lockie,Hay,Hay,67,78,15,3,57,0,0,0,0,1,0,12015,8,29,241,Lockie,Agroforestry,Agroforestry,70,80,3,37,37,12,1,12,33,2,6,22015,8,29,241,Lockie,Corn,Corn,70,80,3,4,3,0,0,1,0,3,2,02015,8,29,241,Lockie,Hay,Hay,70,80,0,64,31,14,0,2,34,1,5,02015,9,30,273,Lockie,Agroforestry,Agroforestry,56,68,7,4,42,12,0,2,0,0,17,02015,9,30,273,Lockie,Corn,Corn,56,68,0,0,6,1,0,0,0,0,0,02015,9,30,273,Lockie,Hay,Hay,56,68,14,9,69,4,0,3,10,0,14,02015,6,21,172,Potter,Agroforestry,Agroforestry,70,82,37,0,20,25,7,4,5,1,7,12015,6,21,172,Potter,Hay,Trail,70,82,29,9,13,0,40,12,9,4,4,02015,6,21,172,Potter,Soy,Soy,70,82,4,15,38,40,2,1,12,0,7,12015,7,24,205,Potter,Agroforestry,Agroforestry,75,78,30,3,23,5,4,39,39,1,2,12015,7,24,205,Potter,Hay,Trail,75,78,42,25,18,1,3,8,2,1,1,02015,7,24,205,Potter,Soy,Soy,75,78,1,8,12,0,1,0,0,0,0,02015,8,30,242,Potter,Agroforestry,Agroforestry,66,79,30,20,24,7,1,6,21,0,17,12015,8,30,242,Potter,Hay,Trail,66,79,17,20,17,3,2,5,1,1,3,12015,8,30,242,Potter,Soy,Soy,66,79,1,1,8,3,0,0,5,2,1,12015,9,21,264,Potter,Agroforestry,Agroforestry,62,75,7,6,32,98,0,4,87,0,4,02015,9,21,264,Potter,Hay,Trail,62,75,2,55,20,16,1,4,6,4,0,02015,9,21,264,Potter,Soy,Soy,62,75,1,3,12,4,0,0,124,1,0,02015,6,7,158,Vulcan,Agroforestry,Agroforestry,77,88,1,0,48,0,0,1,0,0,1,02015,6,7,158,Vulcan,Forest,Woods,77,88,5,14,15,4,0,4,11,1,1,02015,6,7,158,Vulcan,Hay,Pasture Woods,77,88,6,22,67,10,0,19,31,1,0,22015,6,7,158,Vulcan,Row Crop,Corn,77,88,1,2,50,54,0,2,8,0,1,02015,7,15,196,Vulcan,Agroforestry,Agroforestry,67,78,18,3,108,12,0,4,4,2,5,152015,7,15,196,Vulcan,Forest,Woods,67,78,3,37,2,34,0,4,0,4,0,02015,7,15,196,Vulcan,Hay,Pasture Woods,67,78,19,27,37,15,0,4,1,2,0,02015,7,15,196,Vulcan,Row Crop,Corn,67,78,11,2,20,0,0,0,0,0,0,02015,8,26,238,Vulcan,Agroforestry,Agroforestry,67,68,24,5,44,7,1,3,8,0,9,02015,8,26,238,Vulcan,Forest,Woods,67,68,6,36,23,2,0,2,0,0,0,02015,8,26,238,Vulcan,Hay,Pasture Woods,67,68,7,13,73,7,0,26,2,2,0,02015,8,26,238,Vulcan,Row Crop,Corn,67,68,6,1,6,0,0,0,0,1,3,02015,9,23,266,Vulcan,Agroforestry,Agroforestry,65,84,4,2,31,0,1,4,0,1,3,12015,9,23,266,Vulcan,Corn,Corn,65,84,0,1,3,0,0,0,0,2,0,02015,9,23,266,Vulcan,Forest,Woods,65,84,3,42,20,10,0,0,12,0,0,02015,9,23,266,Vulcan,Hay,Pasture Woods,65,84,6,110,14,4,0,15,20,4,0,02015,6,23,174,Williams,Agroforestry,Agroforestry,67,81,19,30,50,22,0,0,30,1,10,22015,6,23,174,Williams,Hay,Hay,67,81,14,22,63,0,4,11,0,0,2,12015,6,23,174,Williams,Oat/Alfalfa,Oat/Alfalfa,67,81,8,20,23,12,0,0,31,0,14,02015,7,22,203,Williams,Agroforestry,Agroforestry,68,81,27,1,5,0,1,2,0,2,1,02015,7,22,203,Williams,Hay,Hay,68,81,8,9,20,14,4,2,0,0,2,22015,7,22,203,Williams,Oat/Alfalfa,Oat/Alfalfa,68,81,52,1,12,0,0,0,0,1,4,02015,8,31,243,Williams,Agroforestry,Agroforestry,64,85,13,6,68,0,0,3,5,1,4,02015,8,31,243,Williams,Hay,Hay,64,85,10,10,16,73,1,10,12,2,0,02015,8,31,243,Williams,Oat/Alfalfa,Oat/Alfalfa,64,85,8,5,31,16,0,0,2,0,4,02015,9,20,263,Williams,Agroforestry,Agroforestry,55,75,49,2,18,34,1,5,0,2,22,02015,9,20,263,Williams,Hay,Hay,55,75,21,7,14,5,0,4,0,0,9,12015,9,20,263,Williams,Oat/Alfalfa,Oat/Alfalfa,55,75,17,3,55,48,0,6,0,0,12,02016,5,29,149,Fruit Farm,Forest,Wild Polyculture,76,83,4,12,240,1,0,5,6,4,0,02016,5,29,149,Fruit Farm,Row Crop,Apple,76,83,1,1,58,0,1,0,3,0,0,02016,6,21,172,Fruit Farm,Forest,Wild Polyculture,75,83,11,243,76,21,0,3,22,0,0,02016,6,21,172,Fruit Farm,Row Crop,Apple,75,83,10,46,43,0,0,10,13,0,1,02016,5,18,138,Lockie,Agroforestry,Agroforestry,64,73,7,4,28,47,0,5,110,3,1,02016,5,18,138,Lockie,Hay,Hay,64,73,1,6,39,42,0,13,87,2,1,22016,5,18,138,Lockie,Row Crop,Soy,64,73,44,3,138,118,0,1,12,12,0,02016,6,25,176,Lockie,Agroforestry,Agroforestry,80,90,11,10,13,158,1,11,53,0,0,12016,6,25,176,Lockie,Hay,Hay,80,90,13,4,14,11,0,11,90,0,1,02016,6,25,176,Lockie,Row Crop,Soy,80,90,29,1,47,49,0,1,12,1,0,02016,7,NA,NA,Lockie,Agroforestry,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,NA,NA,Lockie,Hay,Hay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,NA,NA,Lockie,Row Crop,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,30,242,Lockie,Agroforestry,Agroforestry,72,81,6,33,101,421,0,30,118,3,11,12016,8,30,242,Lockie,Hay,Hay,72,81,7,33,127,234,1,31,174,2,9,02016,8,30,242,Lockie,Row Crop,Soy,72,81,0,6,189,54,0,5,6,1,0,02016,5,21,141,Potter,Agroforestry,Agroforestry,65,76,54,3,32,12,4,9,25,1,5,02016,5,21,141,Potter,Hay,Trail,65,76,115,13,10,4,0,3,7,1,1,02016,5,21,141,Potter,Row Crop,Corn,65,76,27,0,5,1,0,1,3,1,0,02016,6,19,170,Potter,Agroforestry,Agroforestry,NA,NA,7,1,10,5,1,5,115,1,1,32016,6,19,170,Potter,Hay,Trail,80,89,19,28,12,10,3,5,33,1,1,02016,6,19,170,Potter,Row Crop,Corn,80,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,25,206,Potter,Agroforestry,Agroforestry,NA,NA,6,17,11,26,6,8,117,0,2,62016,7,25,206,Potter,Hay,Trail,76,82,32,13,23,21,10,9,43,0,1,02016,7,25,206,Potter,Row Crop,Corn,76,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,9,1,244,Potter,Agroforestry,Agroforestry,71,77,5,23,21,50,2,20,68,1,4,02016,9,1,244,Potter,Hay,Trail,71,77,12,74,54,14,0,58,28,1,2,12016,9,1,244,Potter,Row Crop,Corn,71,77,1,33,18,5,0,39,8,0,0,02016,5,18,138,Vulcan,Agroforestry,Agroforestry,60,72,22,6,43,1,0,3,17,12,0,02016,5,18,138,Vulcan,Forest,Woods,60,72,9,14,12,8,0,2,0,1,0,02016,5,18,138,Vulcan,Hay,Pasture Woods,60,72,20,34,27,22,0,4,15,3,0,12016,5,18,138,Vulcan,Row Crop,Soy,60,72,20,1,77,10,0,1,9,8,0,02016,6,20,171,Vulcan,Agroforestry,Agroforestry,81,90,9,5,12,2,2,4,28,0,0,12016,6,20,171,Vulcan,Forest,Woods,81,90,0,28,14,4,0,3,2,0,0,12016,6,20,171,Vulcan,Hay,Pasture Woods,81,90,1,26,29,18,0,2,4,0,0,12016,6,20,171,Vulcan,Row Crop,Soy,81,90,9,1,7,2,0,1,3,0,0,02016,7,NA,NA,Vulcan,Agroforestry,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,NA,NA,Vulcan,Forest,Woods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,NA,NA,Vulcan,Hay,Pasture Woods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,7,NA,NA,Vulcan,Row Crop,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,30,242,Vulcan,Agroforestry,Agroforestry,77,83,26,49,41,15,5,15,56,2,9,02016,8,30,242,Vulcan,Forest,Woods,77,83,5,47,13,3,0,7,22,10,0,02016,8,30,242,Vulcan,Hay,Pasture Woods,77,83,4,98,47,27,0,50,44,5,0,12016,8,30,242,Vulcan,Row Crop,Soy,77,83,5,20,35,22,1,7,102,0,1,12016,5,23,143,Williams,Agroforestry,Agroforestry,68,84,10,4,2,16,0,7,5,0,1,02016,5,23,143,Williams,Forest,Tree edge,68,84,10,5,20,14,0,7,2,1,0,02016,5,23,143,Williams,Hay,Hay,68,84,10,2,20,103,0,5,15,3,1,02016,5,23,143,Williams,Row Crop,Corn,68,84,4,1,5,23,0,0,1,0,1,02016,6,18,169,Williams,Agroforestry,Agroforestry,78,84,42,3,11,6,6,13,77,3,3,12016,6,18,169,Williams,Forest,Tree edge,78,84,8,8,66,121,8,5,37,2,1,12016,6,18,169,Williams,Hay,Hay,78,84,11,35,50,75,0,2,931,1,1,02016,6,18,169,Williams,Row Crop,Corn,78,84,14,2,21,6,2,4,21,0,0,02016,7,27,178,Williams,Agroforestry,Agroforestry,NA,NA,17,5,21,21,0,7,34,0,1,02016,7,27,178,Williams,Forest,Tree edge,76,83,24,12,35,73,1,11,34,0,1,02016,7,27,178,Williams,Hay,Hay,76,83,35,7,41,180,0,10,134,0,0,02016,7,27,178,Williams,Row Crop,Corn,76,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,NA,NA,Williams,Agroforestry,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,NA,NA,Williams,Forest,Tree edge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,NA,NA,Williams,Hay,Hay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,8,NA,NA,Williams,Row Crop,Corn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA2016,5,19,140,WPP,Agroforestry,Agroforestry,61,71,7,6,80,3,6,8,25,1,0,02016,5,19,140,WPP,Agroforestry,Agroforestry,61,71,2,3,78,2,7,7,15,0,0,12016,5,19,140,WPP,Agroforestry,Agroforestry,61,71,9,7,80,2,4,7,77,3,0,12016,5,19,140,WPP,Agroforestry,Agroforestry,61,71,9,7,90,9,6,11,90,4,0,22016,5,19,140,WPP,Row Crop,Corn,61,71,3,3,68,1,0,0,0,0,0,02016,5,19,140,WPP,Row Crop,Corn,61,71,4,0,48,0,0,1,4,0,0,02016,5,19,140,WPP,Row Crop,Corn,61,71,8,1,55,2,1,2,1,0,0,12016,5,19,140,WPP,Row Crop,Corn,61,71,7,1,68,0,0,0,0,0,0,02016,6,16,168,WPP,Agroforestry,Agroforestry,78,81,38,10,75,4,27,5,68,0,0,02016,6,16,168,WPP,Agroforestry,Agroforestry,78,81,47,11,61,2,15,3,32,0,0,02016,6,16,168,WPP,Agroforestry,Agroforestry,78,81,41,12,41,8,15,6,36,0,0,12016,6,16,168,WPP,Agroforestry,Agroforestry,78,81,97,14,89,4,8,6,50,1,0,02016,6,16,168,WPP,Row Crop,Corn,78,81,5,3,16,2,7,1,16,0,0,02016,6,16,168,WPP,Row Crop,Corn,78,81,5,9,21,18,1,1,14,0,0,12016,6,16,168,WPP,Row Crop,Corn,78,81,5,11,36,28,1,2,21,1,0,02016,6,16,168,WPP,Row Crop,Corn,78,81,33,5,38,14,0,7,11,0,0,1
+year,age,month,day,doy,site,trt,block,veg,start.temp,stop.temp,Anthophila,Hymenoptera,Diptera,Collembola,Orthoptera,Hemiptera,Thysanoptera,Coleoptera,Lepidoptera,Araneae
+2014,2,6,14,165,WPP,Agroforestry,A,Agroforestry,68,79,8,7,87,NA,11,9,0,0,2,0
+2014,2,6,14,165,WPP,Agroforestry,B,Agroforestry,68,79,9,6,35,NA,11,14,0,3,0,0
+2014,2,6,14,165,WPP,Agroforestry,C,Agroforestry,68,79,10,2,43,NA,10,15,0,1,0,0
+2014,2,6,14,165,WPP,Agroforestry,D,Agroforestry,68,79,10,4,41,NA,4,17,0,1,0,1
+2014,2,6,14,165,WPP,Row Crop,A,Corn,68,79,1,3,26,NA,4,1,0,1,0,0
+2014,2,6,14,165,WPP,Row Crop,B,Corn,68,79,1,18,34,NA,12,0,0,1,0,0
+2014,2,6,14,165,WPP,Row Crop,C,Corn,68,79,0,4,16,NA,5,0,0,0,0,0
+2014,2,6,14,165,WPP,Row Crop,D,Corn,68,79,4,4,26,NA,2,1,0,1,11,0
+2014,2,7,18,199,WPP,Agroforestry,A,Agroforestry,71,78,19,34,75,NA,1,2,18,2,1,1
+2014,2,7,18,199,WPP,Agroforestry,B,Agroforestry,71,78,19,25,55,NA,2,6,19,1,2,2
+2014,2,7,18,199,WPP,Agroforestry,C,Agroforestry,71,78,31,19,58,NA,1,4,18,0,0,1
+2014,2,7,18,199,WPP,Agroforestry,D,Agroforestry,71,78,35,42,115,NA,0,8,53,3,0,2
+2014,2,7,18,199,WPP,Row Crop,A,Corn,71,78,0,15,4,NA,0,6,4,2,0,0
+2014,2,7,18,199,WPP,Row Crop,B,Corn,71,78,0,34,15,NA,0,0,4,2,0,0
+2014,2,7,18,199,WPP,Row Crop,C,Corn,71,78,0,33,15,NA,0,3,5,2,0,0
+2014,2,7,18,199,WPP,Row Crop,D,Corn,71,78,0,18,8,NA,0,1,2,1,0,0
+2014,2,8,14,226,WPP,Agroforestry,A,Agroforestry,73,80,68,9,39,NA,1,16,33,2,3,0
+2014,2,8,14,226,WPP,Agroforestry,B,Agroforestry,73,80,71,20,37,NA,2,19,52,1,1,0
+2014,2,8,14,226,WPP,Agroforestry,C,Agroforestry,73,80,97,12,46,NA,1,16,44,0,2,1
+2014,2,8,14,226,WPP,Agroforestry,D,Agroforestry,73,80,116,15,41,NA,1,15,32,1,9,0
+2014,2,8,14,226,WPP,Row Crop,A,Corn,73,80,0,10,14,NA,0,10,7,0,0,0
+2014,2,8,14,226,WPP,Row Crop,B,Corn,73,80,1,38,27,NA,0,19,3,0,0,0
+2014,2,8,14,226,WPP,Row Crop,C,Corn,73,80,0,12,12,NA,0,7,3,1,0,0
+2014,2,8,14,226,WPP,Row Crop,D,Corn,73,80,0,28,26,NA,1,13,7,1,0,0
+2014,2,9,24,267,WPP,Agroforestry,A,Agroforestry,58,76,29,57,384,NA,0,9,64,6,12,2
+2014,2,9,24,267,WPP,Agroforestry,B,Agroforestry,58,76,33,47,423,NA,1,14,72,4,10,1
+2014,2,9,24,267,WPP,Agroforestry,C,Agroforestry,58,76,33,96,403,NA,1,22,76,1,15,2
+2014,2,9,24,267,WPP,Agroforestry,D,Agroforestry,58,76,25,84,382,NA,0,15,158,3,12,2
+2014,2,9,24,267,WPP,Row Crop,A,Corn,58,76,0,62,46,NA,0,2,10,2,0,0
+2014,2,9,24,267,WPP,Row Crop,B,Corn,58,76,1,79,45,NA,0,5,22,3,0,0
+2014,2,9,24,267,WPP,Row Crop,C,Corn,58,76,1,106,47,NA,0,10,27,2,1,0
+2014,2,9,24,267,WPP,Row Crop,D,Corn,58,76,1,69,73,NA,0,4,21,0,0,0
+2015,2,5,29,149,Lockie,Agroforestry,A,Agroforestry,76,84,1,15,95,1,0,2,30,1,0,0
+2015,2,5,29,149,Lockie,Row Crop,A,Corn,76,84,5,5,44,0,0,4,25,7,1,2
+2015,2,5,29,149,Lockie,Hay,A,Hay,76,84,0,20,105,24,0,7,22,1,2,0
+2015,2,7,15,196,Lockie,Agroforestry,A,Agroforestry,67,78,4,2,86,77,2,3,4,2,4,2
+2015,2,7,15,196,Lockie,Row Crop,A,Corn,67,78,0,0,25,0,0,1,2,2,0,0
+2015,2,7,15,196,Lockie,Hay,A,Hay,67,78,15,3,57,0,0,0,0,1,0,1
+2015,2,8,29,241,Lockie,Agroforestry,A,Agroforestry,70,80,3,37,37,12,1,12,33,2,6,2
+2015,2,8,29,241,Lockie,Row Crop,A,Corn,70,80,3,4,3,0,0,1,0,3,2,0
+2015,2,8,29,241,Lockie,Hay,A,Hay,70,80,0,64,31,14,0,2,34,1,5,0
+2015,2,9,30,273,Lockie,Agroforestry,A,Agroforestry,56,68,7,4,42,12,0,2,0,0,17,0
+2015,2,9,30,273,Lockie,Row Crop,A,Corn,56,68,0,0,6,1,0,0,0,0,0,0
+2015,2,9,30,273,Lockie,Hay,A,Hay,56,68,14,9,69,4,0,3,10,0,14,0
+2015,2,6,21,172,Potter,Agroforestry,A,Agroforestry,70,82,37,0,20,25,7,4,5,1,7,1
+2015,2,6,21,172,Potter,Hay,A,Trail,70,82,29,9,13,0,40,12,9,4,4,0
+2015,2,6,21,172,Potter,Row Crop,A,Soy,70,82,4,15,38,40,2,1,12,0,7,1
+2015,2,7,24,205,Potter,Agroforestry,A,Agroforestry,75,78,30,3,23,5,4,39,39,1,2,1
+2015,2,7,24,205,Potter,Hay,A,Trail,75,78,42,25,18,1,3,8,2,1,1,0
+2015,2,7,24,205,Potter,Row Crop,A,Soy,75,78,1,8,12,0,1,0,0,0,0,0
+2015,2,8,30,242,Potter,Agroforestry,A,Agroforestry,66,79,30,20,24,7,1,6,21,0,17,1
+2015,2,8,30,242,Potter,Hay,A,Trail,66,79,17,20,17,3,2,5,1,1,3,1
+2015,2,8,30,242,Potter,Row Crop,A,Soy,66,79,1,1,8,3,0,0,5,2,1,1
+2015,2,9,21,264,Potter,Agroforestry,A,Agroforestry,62,75,7,6,32,98,0,4,87,0,4,0
+2015,2,9,21,264,Potter,Hay,A,Trail,62,75,2,55,20,16,1,4,6,4,0,0
+2015,2,9,21,264,Potter,Row Crop,A,Soy,62,75,1,3,12,4,0,0,124,1,0,0
+2015,1,6,7,158,Vulcan,Agroforestry,A,Agroforestry,77,88,1,0,48,0,0,1,0,0,1,0
+2015,1,6,7,158,Vulcan,Forest,A,Woods,77,88,5,14,15,4,0,4,11,1,1,0
+2015,1,6,7,158,Vulcan,Hay,A,Pasture Woods,77,88,6,22,67,10,0,19,31,1,0,2
+2015,1,6,7,158,Vulcan,Row Crop,A,Corn,77,88,1,2,50,54,0,2,8,0,1,0
+2015,1,7,15,196,Vulcan,Agroforestry,A,Agroforestry,67,78,18,3,108,12,0,4,4,2,5,15
+2015,1,7,15,196,Vulcan,Forest,A,Woods,67,78,3,37,2,34,0,4,0,4,0,0
+2015,1,7,15,196,Vulcan,Hay,A,Pasture Woods,67,78,19,27,37,15,0,4,1,2,0,0
+2015,1,7,15,196,Vulcan,Row Crop,A,Corn,67,78,11,2,20,0,0,0,0,0,0,0
+2015,1,8,26,238,Vulcan,Agroforestry,A,Agroforestry,67,68,24,5,44,7,1,3,8,0,9,0
+2015,1,8,26,238,Vulcan,Forest,A,Woods,67,68,6,36,23,2,0,2,0,0,0,0
+2015,1,8,26,238,Vulcan,Hay,A,Pasture Woods,67,68,7,13,73,7,0,26,2,2,0,0
+2015,1,8,26,238,Vulcan,Row Crop,A,Corn,67,68,6,1,6,0,0,0,0,1,3,0
+2015,1,9,23,266,Vulcan,Agroforestry,A,Agroforestry,65,84,4,2,31,0,1,4,0,1,3,1
+2015,1,9,23,266,Vulcan,Row Crop,A,Corn,65,84,0,1,3,0,0,0,0,2,0,0
+2015,1,9,23,266,Vulcan,Forest,A,Woods,65,84,3,42,20,10,0,0,12,0,0,0
+2015,1,9,23,266,Vulcan,Hay,A,Pasture Woods,65,84,6,110,14,4,0,15,20,4,0,0
+2015,1,6,23,174,Williams,Agroforestry,A,Agroforestry,67,81,19,30,50,22,0,0,30,1,10,2
+2015,1,6,23,174,Williams,Hay,A,Hay,67,81,14,22,63,0,4,11,0,0,2,1
+2015,1,6,23,174,Williams,Row Crop,A,Oat/Alfalfa,67,81,8,20,23,12,0,0,31,0,14,0
+2015,1,7,22,203,Williams,Agroforestry,A,Agroforestry,68,81,27,1,5,0,1,2,0,2,1,0
+2015,1,7,22,203,Williams,Hay,A,Hay,68,81,8,9,20,14,4,2,0,0,2,2
+2015,1,7,22,203,Williams,Row Crop,A,Oat/Alfalfa,68,81,52,1,12,0,0,0,0,1,4,0
+2015,1,8,31,243,Williams,Agroforestry,A,Agroforestry,64,85,13,6,68,0,0,3,5,1,4,0
+2015,1,8,31,243,Williams,Hay,A,Hay,64,85,10,10,16,73,1,10,12,2,0,0
+2015,1,8,31,243,Williams,Row Crop,A,Oat/Alfalfa,64,85,8,5,31,16,0,0,2,0,4,0
+2015,1,9,20,263,Williams,Agroforestry,A,Agroforestry,55,75,49,2,18,34,1,5,0,2,22,0
+2015,1,9,20,263,Williams,Hay,A,Hay,55,75,21,7,14,5,0,4,0,0,9,1
+2015,1,9,20,263,Williams,Row Crop,A,Oat/Alfalfa,55,75,17,3,55,48,0,6,0,0,12,0
+2016,NA,5,29,149,Fruit Farm,Forest,A,Wild Polyculture,76,83,4,12,240,1,0,5,6,4,0,0
+2016,NA,5,29,149,Fruit Farm,Row Crop,A,Apple,76,83,1,1,58,0,1,0,3,0,0,0
+2016,NA,6,21,172,Fruit Farm,Forest,A,Wild Polyculture,75,83,11,243,76,21,0,3,22,0,0,0
+2016,NA,6,21,172,Fruit Farm,Row Crop,A,Apple,75,83,10,46,43,0,0,10,13,0,1,0
+2016,3,5,18,138,Lockie,Agroforestry,A,Agroforestry,64,73,7,4,28,47,0,5,110,3,1,0
+2016,3,5,18,138,Lockie,Hay,A,Hay,64,73,1,6,39,42,0,13,87,2,1,2
+2016,3,5,18,138,Lockie,Row Crop,A,Soy,64,73,44,3,138,118,0,1,12,12,0,0
+2016,3,6,25,176,Lockie,Agroforestry,A,Agroforestry,80,90,11,10,13,158,1,11,53,0,0,1
+2016,3,6,25,176,Lockie,Hay,A,Hay,80,90,13,4,14,11,0,11,90,0,1,0
+2016,3,6,25,176,Lockie,Row Crop,A,Soy,80,90,29,1,47,49,0,1,12,1,0,0
+2016,3,7,NA,NA,Lockie,Agroforestry,A,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,3,7,NA,NA,Lockie,Hay,A,Hay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,3,7,NA,NA,Lockie,Row Crop,A,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,3,8,30,242,Lockie,Agroforestry,A,Agroforestry,72,81,6,33,101,421,0,30,118,3,11,1
+2016,3,8,30,242,Lockie,Hay,A,Hay,72,81,7,33,127,234,1,31,174,2,9,0
+2016,3,8,30,242,Lockie,Row Crop,A,Soy,72,81,0,6,189,54,0,5,6,1,0,0
+2016,3,5,21,141,Potter,Agroforestry,A,Agroforestry,65,76,54,3,32,12,4,9,25,1,5,0
+2016,3,5,21,141,Potter,Hay,A,Trail,65,76,115,13,10,4,0,3,7,1,1,0
+2016,3,5,21,141,Potter,Row Crop,A,Corn,65,76,27,0,5,1,0,1,3,1,0,0
+2016,3,6,19,170,Potter,Agroforestry,A,Agroforestry,NA,NA,7,1,10,5,1,5,115,1,1,3
+2016,3,6,19,170,Potter,Hay,A,Trail,80,89,19,28,12,10,3,5,33,1,1,0
+2016,3,6,19,170,Potter,Row Crop,A,Corn,80,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,3,7,25,206,Potter,Agroforestry,A,Agroforestry,NA,NA,6,17,11,26,6,8,117,0,2,6
+2016,3,7,25,206,Potter,Hay,A,Trail,76,82,32,13,23,21,10,9,43,0,1,0
+2016,3,7,25,206,Potter,Row Crop,A,Corn,76,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,3,9,1,244,Potter,Agroforestry,A,Agroforestry,71,77,5,23,21,50,2,20,68,1,4,0
+2016,3,9,1,244,Potter,Hay,A,Trail,71,77,12,74,54,14,0,58,28,1,2,1
+2016,3,9,1,244,Potter,Row Crop,A,Corn,71,77,1,33,18,5,0,39,8,0,0,0
+2016,2,5,18,138,Vulcan,Agroforestry,A,Agroforestry,60,72,22,6,43,1,0,3,17,12,0,0
+2016,2,5,18,138,Vulcan,Forest,A,Woods,60,72,9,14,12,8,0,2,0,1,0,0
+2016,2,5,18,138,Vulcan,Hay,A,Pasture Woods,60,72,20,34,27,22,0,4,15,3,0,1
+2016,2,5,18,138,Vulcan,Row Crop,A,Soy,60,72,20,1,77,10,0,1,9,8,0,0
+2016,2,6,20,171,Vulcan,Agroforestry,A,Agroforestry,81,90,9,5,12,2,2,4,28,0,0,1
+2016,2,6,20,171,Vulcan,Forest,A,Woods,81,90,0,28,14,4,0,3,2,0,0,1
+2016,2,6,20,171,Vulcan,Hay,A,Pasture Woods,81,90,1,26,29,18,0,2,4,0,0,1
+2016,2,6,20,171,Vulcan,Row Crop,A,Soy,81,90,9,1,7,2,0,1,3,0,0,0
+2016,2,7,NA,NA,Vulcan,Agroforestry,A,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,7,NA,NA,Vulcan,Forest,A,Woods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,7,NA,NA,Vulcan,Hay,A,Pasture Woods,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,7,NA,NA,Vulcan,Row Crop,A,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,8,30,242,Vulcan,Agroforestry,A,Agroforestry,77,83,26,49,41,15,5,15,56,2,9,0
+2016,2,8,30,242,Vulcan,Forest,A,Woods,77,83,5,47,13,3,0,7,22,10,0,0
+2016,2,8,30,242,Vulcan,Hay,A,Pasture Woods,77,83,4,98,47,27,0,50,44,5,0,1
+2016,2,8,30,242,Vulcan,Row Crop,A,Soy,77,83,5,20,35,22,1,7,102,0,1,1
+2016,2,5,23,143,Williams,Agroforestry,A,Agroforestry,68,84,10,4,2,16,0,7,5,0,1,0
+2016,2,5,23,143,Williams,Forest,A,Tree edge,68,84,10,5,20,14,0,7,2,1,0,0
+2016,2,5,23,143,Williams,Hay,A,Hay,68,84,10,2,20,103,0,5,15,3,1,0
+2016,2,5,23,143,Williams,Row Crop,A,Corn,68,84,4,1,5,23,0,0,1,0,1,0
+2016,2,6,18,169,Williams,Agroforestry,A,Agroforestry,78,84,42,3,11,6,6,13,77,3,3,1
+2016,2,6,18,169,Williams,Forest,A,Tree edge,78,84,8,8,66,121,8,5,37,2,1,1
+2016,2,6,18,169,Williams,Hay,A,Hay,78,84,11,35,50,75,0,2,931,1,1,0
+2016,2,6,18,169,Williams,Row Crop,A,Corn,78,84,14,2,21,6,2,4,21,0,0,0
+2016,2,7,27,178,Williams,Agroforestry,A,Agroforestry,NA,NA,17,5,21,21,0,7,34,0,1,0
+2016,2,7,27,178,Williams,Forest,A,Tree edge,76,83,24,12,35,73,1,11,34,0,1,0
+2016,2,7,27,178,Williams,Hay,A,Hay,76,83,35,7,41,180,0,10,134,0,0,0
+2016,2,7,27,178,Williams,Row Crop,A,Corn,76,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,8,NA,NA,Williams,Agroforestry,A,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,8,NA,NA,Williams,Forest,A,Tree edge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,8,NA,NA,Williams,Hay,A,Hay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,2,8,NA,NA,Williams,Row Crop,A,Corn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2016,4,5,19,140,WPP,Agroforestry,A,Agroforestry,61,71,7,6,80,3,6,8,25,1,0,0
+2016,4,5,19,140,WPP,Agroforestry,B,Agroforestry,61,71,2,3,78,2,7,7,15,0,0,1
+2016,4,5,19,140,WPP,Agroforestry,C,Agroforestry,61,71,9,7,80,2,4,7,77,3,0,1
+2016,4,5,19,140,WPP,Agroforestry,D,Agroforestry,61,71,9,7,90,9,6,11,90,4,0,2
+2016,4,5,19,140,WPP,Row Crop,A,Corn,61,71,3,3,68,1,0,0,0,0,0,0
+2016,4,5,19,140,WPP,Row Crop,B,Corn,61,71,4,0,48,0,0,1,4,0,0,0
+2016,4,5,19,140,WPP,Row Crop,C,Corn,61,71,8,1,55,2,1,2,1,0,0,1
+2016,4,5,19,140,WPP,Row Crop,D,Corn,61,71,7,1,68,0,0,0,0,0,0,0
+2016,4,6,16,168,WPP,Agroforestry,A,Agroforestry,78,81,38,10,75,4,27,5,68,0,0,0
+2016,4,6,16,168,WPP,Agroforestry,B,Agroforestry,78,81,47,11,61,2,15,3,32,0,0,0
+2016,4,6,16,168,WPP,Agroforestry,C,Agroforestry,78,81,41,12,41,8,15,6,36,0,0,1
+2016,4,6,16,168,WPP,Agroforestry,D,Agroforestry,78,81,97,14,89,4,8,6,50,1,0,0
+2016,4,6,16,168,WPP,Row Crop,A,Corn,78,81,5,3,16,2,7,1,16,0,0,0
+2016,4,6,16,168,WPP,Row Crop,B,Corn,78,81,5,9,21,18,1,1,14,0,0,1
+2016,4,6,16,168,WPP,Row Crop,C,Corn,78,81,5,11,36,28,1,2,21,1,0,0
+2016,4,6,16,168,WPP,Row Crop,D,Corn,78,81,33,5,38,14,0,7,11,0,0,1
+2015,3,4,24,114,WPP,Agroforestry,A,Agroforestry,NA,NA,2,3,102,22,1,1,1,0,0,0
+2015,3,4,24,114,WPP,Agroforestry,B,Agroforestry,NA,NA,0,1,125,5,0,0,0,0,0,0
+2015,3,4,24,114,WPP,Agroforestry,C,Agroforestry,NA,NA,2,1,7,14,0,0,0,1,0,0
+2015,3,4,24,114,WPP,Agroforestry,D,Agroforestry,NA,NA,3,1,88,14,0,2,0,0,0,0
+2015,3,4,24,114,WPP,Row Crop,A,Soy,NA,NA,2,1,48,5,0,0,0,0,0,0
+2015,3,4,24,114,WPP,Row Crop,B,Soy,NA,NA,2,1,40,5,0,1,1,1,0,0
+2015,3,4,24,114,WPP,Row Crop,C,Soy,NA,NA,1,0,55,6,0,0,0,0,0,0
+2015,3,4,24,114,WPP,Row Crop,D,Soy,NA,NA,2,2,74,17,0,0,0,1,0,0
+2015,3,6,3,154,WPP,Agroforestry,A,Agroforestry,NA,NA,5,14,106,5,3,10,71,3,0,0
+2015,3,6,3,154,WPP,Agroforestry,B,Agroforestry,NA,NA,8,260,57,8,3,21,88,2,1,0
+2015,3,6,3,154,WPP,Agroforestry,C,Agroforestry,NA,NA,14,18,285,7,2,12,133,9,1,1
+2015,3,6,3,154,WPP,Agroforestry,D,Agroforestry,NA,NA,9,13,125,7,1,8,169,5,0,1
+2015,3,6,3,154,WPP,Row Crop,A,Soy,NA,NA,20,4,215,9,0,8,11,3,0,0
+2015,3,6,3,154,WPP,Row Crop,B,Soy,NA,NA,31,5,129,17,0,7,8,1,0,0
+2015,3,6,3,154,WPP,Row Crop,C,Soy,NA,NA,25,7,101,16,0,9,13,1,0,0
+2015,3,6,3,154,WPP,Row Crop,D,Soy,NA,NA,39,8,104,17,0,6,15,0,0,0
+2015,3,5,NA,NA,WPP,Agroforestry,A,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Agroforestry,B,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Agroforestry,C,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Agroforestry,D,Agroforestry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Row Crop,A,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Row Crop,B,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Row Crop,C,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,5,NA,NA,WPP,Row Crop,D,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,7,15,196,WPP,Agroforestry,A,Agroforestry,NA,NA,55,17,10,44,5,38,26,0,3,0
+2015,3,7,15,196,WPP,Agroforestry,B,Agroforestry,NA,NA,60,10,32,41,4,29,32,3,1,4
+2015,3,7,15,196,WPP,Agroforestry,C,Agroforestry,NA,NA,44,13,39,52,4,30,20,1,2,3
+2015,3,7,15,196,WPP,Agroforestry,D,Agroforestry,NA,NA,51,11,41,70,2,36,20,4,2,4
+2015,3,7,15,196,WPP,Row Crop,A,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,7,15,196,WPP,Row Crop,B,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,7,15,196,WPP,Row Crop,C,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,7,15,196,WPP,Row Crop,D,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,8,26,238,WPP,Agroforestry,A,Agroforestry,NA,NA,66,13,46,18,2,30,31,0,7,0
+2015,3,8,26,238,WPP,Agroforestry,B,Agroforestry,NA,NA,55,13,58,7,0,34,27,0,13,0
+2015,3,8,26,238,WPP,Agroforestry,C,Agroforestry,NA,NA,71,22,39,7,1,21,18,0,10,0
+2015,3,8,26,238,WPP,Agroforestry,D,Agroforestry,NA,NA,85,16,51,8,1,18,32,2,12,1
+2015,3,8,26,238,WPP,Row Crop,A,Soy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,3,8,26,238,WPP,Row Crop,B,Soy,NA,NA,7,6,48,0,0,9,13,0,0,0
+2015,3,8,26,238,WPP,Row Crop,C,Soy,NA,NA,7,7,25,0,0,8,8,0,0,1
+2015,3,8,26,238,WPP,Row Crop,D,Soy,NA,NA,6,2,20,0,0,7,5,6,0,3
+2015,3,9,23,266,WPP,Agroforestry,A,Agroforestry,NA,NA,3,13,15,141,1,17,27,5,0,0
+2015,3,9,23,266,WPP,Agroforestry,B,Agroforestry,NA,NA,8,19,14,148,2,40,42,4,0,1
+2015,3,9,23,266,WPP,Agroforestry,C,Agroforestry,NA,NA,20,25,46,192,4,43,43,6,1,3
+2015,3,9,23,266,WPP,Agroforestry,D,Agroforestry,NA,NA,15,7,21,110,1,22,32,5,0,0
+2015,3,9,23,266,WPP,Row Crop,A,Soy,NA,NA,4,12,30,0,0,3,171,11,0,1
+2015,3,9,23,266,WPP,Row Crop,B,Soy,NA,NA,3,5,6,0,0,5,132,11,2,2
+2015,3,9,23,266,WPP,Row Crop,C,Soy,NA,NA,4,3,7,0,0,5,135,7,0,0
+2015,3,9,23,266,WPP,Row Crop,D,Soy,NA,NA,1,10,11,0,1,10,266,10,1,3
