@@ -42,7 +42,7 @@ bowls.rel.si <- bowls.rel %>% filter(site != "WPP")
 bowls.wpp$trt <- factor(bowls.wpp$trt, labels = c("AF", "MSR"))
 bowl.date.labs <- data.frame(year = 2014:2016, month = 5, num.orders.mean = 10, num.indivs.mean = 600)
 
-## NUMBER OF ORDERS
+##### NUMBER OF ORDERS #####
 bowl.order.ts <- ggplot(bowls.wpp, aes(x = month, y = num.orders.mean)) +
   labs(x = "Month", y = "Number of orders", color = "") +
   facet_wrap(~year, ncol = 1) +
@@ -66,7 +66,7 @@ ggsave_fitmax(paste0(outputPlotPath, "WPP_Bowl_Orders_TS.jpg"),
               dpi = 500)
 
 
-## NUMBER OF INDIVIDUALS
+##### NUMBER OF INDIVIDUALS #####
 bowl.indiv.ts <- ggplot(bowls.wpp, aes(x = month, y = num.indivs.mean)) +
   labs(x = "Month", y = "Abundance", color = "") +
   facet_wrap(~year, ncol = 1) +
@@ -89,7 +89,7 @@ ggsave_fitmax(paste0(outputPlotPath, "WPP_Bowl_Abundnace_TS.jpg"),
               bowl.indiv.ts,
               dpi = 500)
 
-## ALL TOGETHER BY AGE
+##### ALL TOGETHER BY AGE #####
 bowls.rel.wpp.PLOT <- subset(bowls.rel.wpp, age < 4)
 bowls.rel.wpp.PLOT$month <- bowls.rel.wpp.PLOT$month - 0.05
 
@@ -100,22 +100,24 @@ bowls.rel.si.PLOT$trt <- factor(bowls.rel.si.PLOT$trt, labels = c("AF", "Forest"
 bowl.age.labs <- data.frame(age = 1:3,
                             label = paste0("(", c("a", "b", "c"), ") ", 1:3, "yr"),
                             month = 4,
+                            doy = 90,
                             num.orders.mean = 2.7,
                             num.indivs.mean = 15)
 
-rel.ofders.age <- ggplot(bowls.rel.wpp.PLOT, aes(x = month, y = num.orders.mean)) +
-  labs(x = "Month", y = "Number of orders relative to MSR", color = "") +
+rel.ofders.age <- ggplot(bowls.rel.wpp.PLOT, aes(x = doy, y = num.orders.mean)) +
+  labs(x = "Month", y = "Number of orders relative to MSR", fill = "") +
   facet_wrap(~age, ncol = 1) +
-  scale_x_continuous(sec.axis = sec_axis(~ ., labels = NULL), breaks = 4:9) +
+  scale_x_continuous(breaks = c(105,135,166,196,227,258), labels = as.character(4:9), limits = c(100, 273),
+                     sec.axis = sec_axis(~ ., labels = NULL)) +
   scale_y_continuous(sec.axis = sec_axis(~ ., labels = NULL)) +
   geom_hline(yintercept = 1, linetype = "dashed") +
-  geom_point(na.rm = TRUE) +
-  geom_errorbar(aes(ymin = (num.orders.mean - num.orders.sem), ymax = (num.orders.mean + num.orders.sem)), na.rm = TRUE, width = 0.3) +
-  geom_point(data = bowls.rel.si.PLOT, aes(color = trt), na.rm = TRUE)+
+  geom_point(na.rm = TRUE, size = 2) +
+  geom_errorbar(aes(ymin = (num.orders.mean - num.orders.sem), ymax = (num.orders.mean + num.orders.sem)), na.rm = TRUE, width = 5) +
+  geom_point(data = bowls.rel.si.PLOT, shape = 21, aes(fill = trt), na.rm = TRUE)+
   geom_text(data = bowl.age.labs, aes(label = label), hjust = 0.1, vjust = 1.5, size = 5, na.rm = TRUE) +
-  scale_color_manual(values = c("grey70", "#E69F00", "#56B4E9")) +
+  scale_fill_manual(values = c("grey70", "#E69F00", "#56B4E9")) +
   theme_ggEHD() +
-  theme(legend.position = "bottom",
+  theme(legend.position = "right",
         strip.background = element_blank(),
         strip.text = element_blank())
 
@@ -123,19 +125,20 @@ ggsave_fitmax(paste0(outputPlotPath, "Bowl_Rel_Orders_by_Age.jpg"),
               rel.ofders.age,
               dpi = 500)
 
-rel.abundance.age <- ggplot(bowls.rel.wpp.PLOT, aes(x = month, y = num.indivs.mean)) +
-  labs(x = "Month", y = "Abundance relative to MSR", color = "") +
+rel.abundance.age <- ggplot(bowls.rel.wpp.PLOT, aes(x = doy, y = num.indivs.mean)) +
+  labs(x = "Month", y = "Abundance relative to MSR", fill = "") +
   facet_wrap(~age, ncol = 1) +
-  scale_x_continuous(sec.axis = sec_axis(~ ., labels = NULL), breaks = 4:9) +
+  scale_x_continuous(breaks = c(105,135,166,196,227,258), labels = as.character(4:9), limits = c(100, 273),
+                     sec.axis = sec_axis(~ ., labels = NULL)) +
   scale_y_continuous(sec.axis = sec_axis(~ ., labels = NULL)) +
   geom_hline(yintercept = 1, linetype = "dashed") +
-  geom_point(na.rm = TRUE) +
-  geom_errorbar(aes(ymin = (num.indivs.mean - num.indivs.sem), ymax = (num.indivs.mean + num.indivs.sem)), na.rm = TRUE, width = 0.3) +
-  geom_point(data = bowls.rel.si.PLOT, aes(color = trt), na.rm = TRUE)+
+  geom_point(na.rm = TRUE, size = 2) +
+  geom_errorbar(aes(ymin = (num.indivs.mean - num.indivs.sem), ymax = (num.indivs.mean + num.indivs.sem)), na.rm = TRUE, width = 5) +
+  geom_point(data = bowls.rel.si.PLOT, shape = 21, aes(fill = trt), na.rm = TRUE)+
   geom_text(data = bowl.age.labs, aes(label = label), hjust = 0.1, vjust = 0.6, size = 5, na.rm = TRUE) +
-  scale_color_manual(values = c("grey70", "#E69F00", "#56B4E9")) +
+  scale_fill_manual(values = c("grey70", "#E69F00", "#56B4E9")) +
   theme_ggEHD() +
-  theme(legend.position = "bottom",
+  theme(legend.position = "right",
         strip.background = element_blank(),
         strip.text = element_blank())
 
@@ -143,7 +146,7 @@ ggsave_fitmax(paste0(outputPlotPath, "Bowl_Rel_Abundance_by_Age.jpg"),
               rel.abundance.age,
               dpi = 500)
 
-## RELATIVE ABUNDANCE BY ORDER
+##### RELATIVE ABUNDANCE BY ORDER #####
 bowls.to.plot <- bowls
 bowls.to.plot$Thysanoptera[bowls.to.plot$Thysanoptera > 750] <- NA
 bowls.to.plot$Orthoptera[bowls.to.plot$Orthoptera > 30] <- NA
@@ -176,14 +179,14 @@ plot_by_order <- function(order.name, bowls) {
     scale_y_continuous(sec.axis = sec_axis(~ ., labels = NULL)) +
     geom_jitter(data = si, shape = 21, aes(fill = trt), na.rm = TRUE) +
     geom_point(aes(color = trt), na.rm = TRUE, size = 2) +
-    geom_errorbar(aes(ymin = (value.mean - value.sem), ymax = (value.mean + value.sem), color = trt), na.rm = TRUE, width = 0.3) +
+    geom_errorbar(aes(ymin = (value.mean - value.sem), ymax = (value.mean + value.sem), color = trt), na.rm = TRUE, width = 5) +
     geom_point(na.rm = TRUE, shape = 21, size = 2) +
     scale_color_manual(values = c("black", "#D55E00")) +
     scale_fill_manual(values = c("black", "#56B4E9", "#E69F00", "#D55E00")) +
     theme_ggEHD() +
     theme(legend.position = "right")
 
-  ggsave_fitmax(paste0(orderPlotPath, order.name, "_Rel_Abundance_by_Age.jpg"),
+  ggsave_fitmax(paste0(orderPlotPath, order.name, "_Abundance_by_Age.jpg"),
                 order.plot,
                 dpi = 500)
 }
